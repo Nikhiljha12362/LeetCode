@@ -35,8 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Nikhiljha12362/LeetCode/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/Nikhiljha12362/LeetCode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhiljha12362/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Nikhiljha12362/LeetCode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Nikhiljha12362/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
