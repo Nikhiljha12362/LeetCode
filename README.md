@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nikhiljha12362/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Nikhiljha12362/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nikhiljha12362/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nikhiljha12362/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikhiljha12362/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nikhiljha12362/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0018-4sum) |
 ## String
 |  |
