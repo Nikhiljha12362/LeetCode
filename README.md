@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Nikhiljha12362/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Nikhiljha12362/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikhiljha12362/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Nikhiljha12362/LeetCode/tree/master/0704-binary-search) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
