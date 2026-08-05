@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nikhiljha12362/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nikhiljha12362/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Nikhiljha12362/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Nikhiljha12362/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Nikhiljha12362/LeetCode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhiljha12362/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Nikhiljha12362/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Nikhiljha12362/LeetCode/tree/master/0383-ransom-note) |
 | [3731-find-missing-elements](https://github.com/Nikhiljha12362/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Nikhiljha12362/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
