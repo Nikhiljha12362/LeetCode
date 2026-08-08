@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nikhiljha12362/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Nikhiljha12362/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Nikhiljha12362/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Nikhiljha12362/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Nikhiljha12362/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -103,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhiljha12362/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhiljha12362/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nikhiljha12362/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
