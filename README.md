@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhiljha12362/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhiljha12362/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nikhiljha12362/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Nikhiljha12362/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Nikhiljha12362/LeetCode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Nikhiljha12362/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nikhiljha12362/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
