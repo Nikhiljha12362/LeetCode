@@ -1,13 +1,20 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-       HashMap<Integer, Integer> f = new HashMap<>();
-        for(int i =0;i<nums.length;i++){
-            f.put(nums[i],f.getOrDefault(nums[i],0)+1);
-              if (f.get(nums[i]) > 1){
-            return nums[i];
+       int  slow = 0;
+       int  fast = 0;
+        while(true){
+            slow = nums[slow]; // slow = slow.next;
+            fast = nums[fast]; //fast = fast.next
+            fast = nums[fast]; //fast = fast.next
+            if(slow==fast){  //metting point
+                break;
+            }
         }
+        slow =0;
+        while(slow!=fast){                // starting point milega 
+            slow = nums[slow]; 
+            fast = nums[fast];
         }
-     
-        return -1;
+        return slow;
     }
 }
