@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Nikhiljha12362/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhiljha12362/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhiljha12362/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhiljha12362/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3731-find-missing-elements](https://github.com/Nikhiljha12362/LeetCode/tree/master/3731-find-missing-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nikhiljha12362/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Nikhiljha12362/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhiljha12362/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Game Theory
 |  |
 | ------- |
