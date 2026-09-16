@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikhiljha12362/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Nikhiljha12362/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Nikhiljha12362/LeetCode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nikhiljha12362/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhiljha12362/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhiljha12362/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Nikhiljha12362/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhiljha12362/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nikhiljha12362/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/1480-running-sum-of-1d-array) |
