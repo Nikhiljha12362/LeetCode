@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nikhiljha12362/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Nikhiljha12362/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhiljha12362/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Nikhiljha12362/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhiljha12362/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3731-find-missing-elements](https://github.com/Nikhiljha12362/LeetCode/tree/master/3731-find-missing-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nikhiljha12362/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
