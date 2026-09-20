@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Nikhiljha12362/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nikhiljha12362/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Nikhiljha12362/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nikhiljha12362/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nikhiljha12362/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nikhiljha12362/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Nikhiljha12362/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Nikhiljha12362/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Nikhiljha12362/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nikhiljha12362/LeetCode/tree/master/0056-merge-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhiljha12362/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Divide and Conquer
 |  |
