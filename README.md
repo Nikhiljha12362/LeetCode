@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nikhiljha12362/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Nikhiljha12362/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/Nikhiljha12362/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Nikhiljha12362/LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nikhiljha12362/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Nikhiljha12362/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/Nikhiljha12362/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhiljha12362/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nikhiljha12362/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -235,9 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Nikhiljha12362/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sweep Line
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Nikhiljha12362/LeetCode/tree/master/0986-interval-list-intersections) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Nikhiljha12362/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
