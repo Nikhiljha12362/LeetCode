@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhiljha12362/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Nikhiljha12362/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhiljha12362/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhiljha12362/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Nikhiljha12362/LeetCode/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhiljha12362/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
