@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nikhiljha12362/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Nikhiljha12362/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0202-happy-number) |
