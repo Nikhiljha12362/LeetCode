@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nikhiljha12362/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikhiljha12362/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhiljha12362/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0268-missing-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhiljha12362/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Nikhiljha12362/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Nikhiljha12362/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nikhiljha12362/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nikhiljha12362/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nikhiljha12362/LeetCode/tree/master/0231-power-of-two) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nikhiljha12362/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhiljha12362/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nikhiljha12362/LeetCode/tree/master/0739-daily-temperatures) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nikhiljha12362/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
